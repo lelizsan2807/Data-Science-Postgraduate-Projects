@@ -14,5 +14,7 @@ and business intelligence.
 
 Projects:
 - E-news Express Project
+- EasyVisa Project
+- Trade&Ahead
 - INN Hotels Project
 - ReCell Project
